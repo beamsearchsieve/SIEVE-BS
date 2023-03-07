@@ -1,7 +1,7 @@
 # SIEVE-BS
 
 Simple implementation of: 
-	- SIEVE-BS 
-	- SIEVE-BS-Middlepath 
+* SIEVE-BS 
+* SIEVE-BS-Middlepath 
 	
 	
